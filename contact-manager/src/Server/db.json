@@ -1,0 +1,100 @@
+{
+  "contacts": [
+    {
+      "id": "@A121",
+      "name": "ajay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "989898989",
+      "email": "ajay123@gmail.com",
+      "company": "tcs",
+      "title": "Software Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "@A122",
+      "name": "vijay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "779898989",
+      "email": "vijay123@gmail.com",
+      "company": "hcl",
+      "title": "Software Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "@A123",
+      "name": "sanjay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "986698989",
+      "email": "sanjay123@gmail.com",
+      "company": "test yantra",
+      "title": "Software Developer",
+      "groupId": "3"
+    },
+    {
+      "id": "@A124",
+      "name": "digvijay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "985558989",
+      "email": "digjay123@gmail.com",
+      "company": "accenture",
+      "title": "Software Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "@A125",
+      "name": "jay",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "989999989",
+      "email": "jay123@gmail.com",
+      "company": "tmech",
+      "title": "Software Developer",
+      "groupId": "5"
+    },
+    {
+      "id": "124a",
+      "name": "Dhanashri Mujumale",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/018/787/018/small_2x/avatar-job-business-woman-flat-portrait-of-woman-png.png",
+      "mobile": "93284758793",
+      "email": "dhanu123@gmail.com",
+      "title": "Developer",
+      "company": "MicroSoft",
+      "groupId": "friend"
+    },
+    {
+      "id": "0168",
+      "name": "Vijaya  Patil",
+      "photo": "https://e7.pngegg.com/pngimages/499/529/png-clipart-computer-icons-woman-avatar-woman-people-woman-thumbnail.png",
+      "mobile": "9356454617",
+      "email": "vijaya@gmail.com",
+      "title": "Software Developer",
+      "company": "Wipro",
+      "groupId": "friend"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Social"
+    },
+    {
+      "id": "4",
+      "name": "College"
+    },
+    {
+      "id": "5",
+      "name": "Friends"
+    },
+    {
+      "id": "6",
+      "name": "Community"
+    }
+  ]
+}
